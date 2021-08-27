@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:aqua;
+}
+
+header{
+    display:inline-block;
+    
+}
+
+h1{
+    display: inline;
+}
+
+.section1{
+   display: inline-block;
+   background-color:coral;
+   width:100%;
+}
+
+nav{
+    display:inline-block;
+    width: 100%;
+}
+
+ul{
+    display:inline-block
+}
+
+li{
+    display:inline-block
+}
+
+footer{
+  float:left;
+  width: 100%;
+  background-color:chartreuse;
+  padding: 30px 0;
+  }
+

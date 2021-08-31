@@ -1,0 +1,67 @@
+.skills{
+    border: solid 1px #431883; 
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50%;
+    height:50%;
+    margin-top: 5%;
+}
+
+.js{
+   border-radius: 20px;
+   display: inline-block; 
+   position: absolute;
+   left: 20%;
+   transform: translateX(-50%);
+   background-repeat: no-repeat;
+   background-image: url(imagem/skill_3.png);
+   width: 300px;
+   height: 300px;
+   background-size: 100% 100%;
+   margin-top: 80px;
+}
+.html{
+    border-radius: 20px;
+    display: inline-block; 
+    position: absolute;
+    left: 80%;
+    transform: translateX(-50%);
+    background-repeat: no-repeat;
+    background-image: url(imagem/skills_1.jpg);
+    width: 300px;
+    height: 300px;
+    background-size: 100% 100%;
+    margin-top: 80px;
+ }
+ .css{
+    border-radius: 20px;
+    display: inline-block; 
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    background-repeat: no-repeat;
+    background-image: url(imagem/skills_2.png);
+    width: 300px;
+    height: 300px;
+    background-size: 100% 100%;
+    margin-top: 80px;
+ }
+ h2{
+     display: inline-block;
+ }
+ .skill_1{
+     position:absolute;
+     left:15%;
+     transform: translateX(-50);
+ }
+ .skill_2{
+    position:absolute;
+    left:45%;
+    transform: translateX(-50);
+}
+.skill_3{
+    position:absolute;
+    left:75%;
+    transform: translateX(-50);
+}

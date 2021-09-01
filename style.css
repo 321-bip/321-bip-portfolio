@@ -73,6 +73,7 @@ p{
    font-size:15pt;
 }
 .img1{
+    border-radius: 15px;
     border: solid 1px #431883; 
     position: absolute;
     left: 50%;
@@ -86,6 +87,7 @@ p{
     background-size: 100% 100%;
 }
 .img2{
+    border-radius: 15px;
     border: solid 1px #431883; 
     position: absolute;
     left: 50%;
@@ -99,6 +101,7 @@ p{
     background-size: 100% 100%;
 }
 .img3{
+    border-radius: 15px;
     border: solid 1px #431883; 
     position: absolute;
     left: 50%;
@@ -112,6 +115,7 @@ p{
     background-size: 100% 100%;
 }
 .img4{
+    border-radius: 15px;
     border: solid 1px #431883; 
     position: absolute;
     left: 50%;
@@ -125,6 +129,7 @@ p{
     background-size: 100% 100%;
 }
 .img5{
+    border-radius: 15px;
     border: solid 1px #431883; 
     position: absolute;
     left: 50%;
@@ -138,6 +143,7 @@ p{
     background-size: 100% 100%;
 }
 .img6{
+    border-radius: 15px;
     border: solid 1px #431883; 
     position: absolute;
     left: 50%;
@@ -151,6 +157,7 @@ p{
     background-size: 100% 100%;
 }
 .img7{
+    border-radius: 15px;
     border: solid 1px #431883; 
     position: absolute;
     left: 50%;

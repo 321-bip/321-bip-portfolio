@@ -78,12 +78,12 @@ p{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    width: 65vw;
-    height:25vw;
+    width: 60vw;
+    height:20vw;
     margin-top: 5%;
     object-fit:cover ;
     background-image: url(imagem/img_1.png);
-    background-size: 65vw 25vw;
+    background-size: 60vw 20vw;
     background-repeat: no-repeat;
    
 }
@@ -93,12 +93,12 @@ p{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    width: 65vw;
-    height:25vw;
+    width: 60vw;
+    height:20vw;
     margin-top: 5%;
     object-fit:cover ;
     background-image: url(imagem/img_2.png);
-    background-size: 65vw 25vw;
+    background-size: 60vw 20vw;
     background-repeat: no-repeat;
   
 }
@@ -108,12 +108,12 @@ p{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    width: 65vw;
-    height:25vw;
+    width: 60vw;
+    height:20vw;
     margin-top: 5%;
     object-fit:cover ;
     background-image: url(imagem/img_3.png);
-    background-size: 65vw 25vw;
+    background-size: 60vw 20vw;
     background-repeat: no-repeat;
    
 }
@@ -123,12 +123,12 @@ p{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    width: 65vw;
-    height:25vw;
+    width: 60vw;
+    height:20vw;
     margin-top: 5%;
     object-fit:cover ;
     background-image: url(imagem/img_4.png);
-    background-size: 65vw 25vw;
+    background-size: 60vw 20vw;
     background-repeat: no-repeat;
    
 }
@@ -138,12 +138,12 @@ p{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    width: 65vw;
-    height:25vw;
+    width: 60vw;
+    height:20vw;
     margin-top: 5%;
     object-fit:cover ;
     background-image: url(imagem/img_5.jpg);
-    background-size: 65vw 25vw;
+    background-size: 60vw 20vw;
     background-repeat: no-repeat;
    
 }
@@ -153,12 +153,12 @@ p{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    width: 65vw;
-    height:25vw;
+    width: 60vw;
+    height:20vw;
     margin-top: 5%;
     object-fit:cover ;
     background-image: url(imagem/img_6.jpg);
-    background-size: 65vw 25vw;
+    background-size: 60vw 20vw;
     background-repeat: no-repeat;
    
 }
@@ -168,12 +168,12 @@ p{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    width: 65vw;
-    height:25vw;
+    width: 60vw;
+    height:20vw;
     margin-top: 5%;
     object-fit:cover ;
     background-image: url(imagem/img_7.png);
-    background-size: 65vw 25vw;
+    background-size: 60vw 20vw;
     background-repeat: no-repeat;
    
 }

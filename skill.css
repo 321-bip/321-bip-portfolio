@@ -74,12 +74,12 @@
     
   
 }
- h2{
+/* h2{
      position: fixed;
      display: inline-block;
      font-size: min(25px, 3vw); 
 
- }
+ }*/
  .skill_1{
      position:absolute;
      left: 50%;

@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+input{
+    border-radius: 5px;
+}
+input:hover{
+    border: solid 3px rgb(20, 201, 74);
+}
+textarea:hover{
+    border: solid 3px rgb(20, 201, 74);
+}
+button:hover{
+    border: solid 3px rgb(20, 201, 74);
+}
+.formulario:hover{
+    border: solid 3px rgb(20, 201, 74);
+}
+textarea{
+    border-radius: 15px;
+}
+*{
+    box-sizing: border-box;
+}
+.formulario{
+    background-color: #0b426d ;
+    border-radius:20px;
+    border: solid 1px black;
+    position: fixed;
+    width: 500px;
+    height: 350px;
+    left: 50%;
+    transform: translateX(-50%);
+    top:20%
+}
+button{
+    position:fixed;
+    left: 50%;
+    transform:translatex(-50%);
+    bottom:5%;
+    border-radius: 15px;
+    width: 100px;
+    height: 30px;
+}
+.inputNome{
+    display: inline-block;
+    position:fixed;
+    left:50%;
+    transform:translate(-50%);
+    bottom:75%;
+    width: 90%;
+    height: 7%;
+
+}
+.inputEmail{
+   display:inline-block; 
+   position:fixed;
+   left:50%;
+   transform:translatex(-50%);
+   bottom:62%;
+   width: 90%;
+   height: 7%;
+}
+.inputCaixa{
+    position: fixed;
+    left:50%;
+    transform: translatex(-50%);
+    bottom:16%;
+    width: 90%;
+    height: 40%;
+}
+label{
+    font-size: min(12pt,2vw,2vh);
+    color:white;
+}
+.labelNome{
+ position: fixed;
+ left: 5%;
+ bottom:82%;   
+}
+.labelEmail{
+position: fixed;
+left:5%;
+bottom:69%;
+}
+.labelCaixa{
+position: fixed;
+left: 5%;
+bottom:56%;
+}
+@media(max-height:414px){
+    .formulario{
+        width: 300px;
+        height: 63%;
+        top: 20%;
+    }
+    .labelCaixa{
+        bottom:53%;
+        }
+    .labelNome{
+        bottom:90%;   
+       }
+       .labelEmail{
+        bottom:71%;
+        }   
+    .inputNome{
+        height: 12%;
+        bottom:78%;
+    }
+    .inputEmail{
+        height: 12%;
+        bottom:60%;
+    }
+    .inputCaixa{
+        bottom:13%;
+    }
+    label{
+        font-size: min(12pt,4vw,4vh);
+    }
+    button{
+        bottom:1%;
+        height: 11%;
+        width: 80px;
+    }
+}
+@media(max-width:480px){
+    .formulario{
+       width: 250px;
+    }
+    label{
+        font-size: min(12pt,4vw,4vh);
+    }
+}

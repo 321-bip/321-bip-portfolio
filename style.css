@@ -20,7 +20,7 @@ div{
     width: 50%;
     height: 50%;
     left: 85%;
-    margin-top: 50px;
+    margin-top: 40px;
     transform: translateX(-80%);
     text-align: right;
     font-size:max(15pt,1vw);

@@ -194,8 +194,8 @@ p{
       height: 15%;
       display: inline-block;  
       margin-top:50px;
-      
-    }
+     
+}
     .section1{
         height: 100px;
     }
@@ -220,6 +220,12 @@ p{
   footer{
       height: 7%;
   }
+}
+@media(max-width:360px){
+    div{
+
+      text-align: left ;
+    }
 }
 
 

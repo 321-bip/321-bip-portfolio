@@ -17,10 +17,10 @@ header{
 div{
     display:inline-block;
     position:absolute;
-    width: 30%;
-    height: 10%;
+    width: 50%;
+    height: 50%;
     left: 80%;
-    margin-top: 10px;
+    margin-top: 50px;
     transform: translateX(-80%);
     text-align: center;
     font-size:max(15pt,1vw);
@@ -201,7 +201,7 @@ p{
     }
     a{
         padding: 3%;
-        font-size:min(10pt,4vw);
+        font-size:min(12pt,4vw);
     }
     header{
         position: absolute;

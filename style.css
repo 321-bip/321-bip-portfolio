@@ -201,7 +201,7 @@ p{
     }
     a{
         padding: 3%;
-        font-size:min(12pt,4vw);
+        font-size:min(10pt,4vw);
     }
     header{
         position: absolute;

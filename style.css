@@ -224,13 +224,14 @@ p{
 }
 @media(max-width:360px){
     div{
-     /* text-align: left ;*/
       margin-left: 10px;
     }
-  /*  a{
-        padding-right: 20px;
-
-    }*/
+    .img1{
+        width:90vw ;
+        height:40vw ;
+        background-size:90vw 40vw ;
+    }
+ 
 }
 
 

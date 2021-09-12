@@ -127,7 +127,7 @@ bottom:56%;
 @media(max-width:480px){
     .formulario{
        width: 250px;
-       top:8%;
+       top:10%;
     }
     label{
         font-size: min(12pt,4vw,4vh);

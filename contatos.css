@@ -93,7 +93,7 @@ bottom:56%;
     .formulario{
         width: 300px;
         height: 63%;
-        top: 15%;
+        top: 20%;
     }
     .labelCaixa{
         bottom:53%;
@@ -127,6 +127,7 @@ bottom:56%;
 @media(max-width:480px){
     .formulario{
        width: 250px;
+       top:8%;
     }
     label{
         font-size: min(12pt,4vw,4vh);

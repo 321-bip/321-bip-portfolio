@@ -17,7 +17,7 @@
    left: 30%;
    transform: translateX(-50%);
    background-repeat: no-repeat;
-   background-image: url(imagem/skill_3.png);
+   background-image: url(../imagem/skill_3.png);
    width: 20vw;
    height: 16vw;
    object-fit:cover;
@@ -35,7 +35,7 @@
     left: 70%;
     transform: translateX(-50%);
     background-repeat: no-repeat;
-    background-image: url(imagem/skills_1.jpg);
+    background-image: url(../imagem/skills_1.jpg);
     width: 20vw;
     height: 16vw;
     object-fit:cover;
@@ -53,7 +53,7 @@
     left: 50%;
     transform: translateX(-50%);
     background-repeat: no-repeat;
-    background-image: url(imagem/skills_2.png);
+    background-image: url(../imagem/skills_2.png);
     width: 20vw;
     height: 16vw;
     object-fit:cover;

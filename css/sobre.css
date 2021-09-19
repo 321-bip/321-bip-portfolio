@@ -7,7 +7,7 @@
     margin-top:5%;
     width:60vw;
     height:max(65%, 20vw);
-    color:rgb(57, 57, 221);
+    color:white;
   
    
 }
@@ -16,7 +16,7 @@
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    color:rgb(57, 57, 221);
+    color:white;
     margin-top:1%;
     font-size: min(50pt, 5vw);
     

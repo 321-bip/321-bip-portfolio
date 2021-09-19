@@ -45,7 +45,7 @@ header{
     width:4vw;
     height:4vh;
 }
-div{
+.pages{
     display:inline-block;
     position:absolute;
     width: 50%;
@@ -217,7 +217,7 @@ p{
    
 }
 @media (max-width: 1160px) {
-    div{
+    .pages{
       left:50% ;
       transform: translateX(-50%);
       width: 100%; 
@@ -253,7 +253,7 @@ p{
   .section1{
        height: 70px;
   }
-  div{
+  .pages{
       margin-top: 25px;
   }
   footer{
@@ -274,7 +274,7 @@ p{
   }
 }
 @media(max-width:1024px){
-    div{
+    .pages{
       margin-left: auto;
     }
     a{

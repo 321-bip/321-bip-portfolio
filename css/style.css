@@ -2,7 +2,7 @@ body{
     margin:0;
     padding:0;
     /*background-image: linear-gradient(83deg,#ecedf3,rgb(158 231 249));*/
-   background-color: #0b0458;
+   background-color:#2e20c7; ;
 }
 *{
    box-sizing: border-box;
@@ -14,37 +14,45 @@ header{
     left: 5%;
 }
 .git{
+    border:solid 1px white;
     border-radius:100% ;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
     display: inline-block;
     background-image: url(../imagem/github-icon-38988.png);
-    background-size: 5vw 5vh;
+    background-size: 4vw 4vh;
     background-position: center;
     background-position-y:center;
     object-fit:cover;
     background-repeat:no-repeat;
     top:5px;
-    width:4vw;
-    height:4vh;
+    width:3vw;
+    height:3vh;
 }
 .link{
+    border:solid 1px white;
     border-radius:100%;
     position: absolute;
     left: 55%;
     transform: translateX(-55%);
     display: inline-block;
     background-image: url(../imagem/linkedin.jpg);
-    background-size: 6vw 6vh;
+    background-size: 4vw 4vh;
     background-position: center;
     background-position-y:center;
     object-fit:cover;
     background-repeat:no-repeat;
     top:5px;
-    width:4vw;
-    height:4vh;
+    width:3vw;
+    height:3vh;
 }
+.link:hover{
+   border:solid 2px rgb(251, 5, 5);
+}
+.git:hover{
+    border:solid 2px rgb(251, 5, 5);
+ }
 .pages{
     display:inline-block;
     position:absolute;
@@ -89,24 +97,10 @@ footer{
   position:fixed;
   width: 100%;
   height: 5%;
-  /*background-color:white;*/
   color:rgb(18, 157, 221);
   text-align: center;
   bottom: 0%; 
-  /*background-color: black;*/
 }
-
-/*main{
-    position: absolute;
-   /* border:solid 5px black;
-    left: 50%;
-    transform: translateX(-50%);
-    display:inline-block;
-    width:100%;
-    height:89%;
-    background-image: linear-gradient(177deg,#0b426d,rgb(122 219 224),rgb(217 221 222));
-}*/
-
 p{
    margin-top:10px;
    font-size:15pt;
@@ -124,7 +118,6 @@ p{
     background-image: url(../imagem/img_1.png);
     background-size: 60vw 20vw;
     background-repeat: no-repeat;
-   
 }
 .img2{
     border-radius: 40px;
@@ -139,7 +132,6 @@ p{
     background-image: url(../imagem/img_2.png);
     background-size: 60vw 20vw;
     background-repeat: no-repeat;
-  
 }
 .img3{
     border-radius: 40px;
@@ -154,7 +146,6 @@ p{
     background-image: url(../imagem/img_3.png);
     background-size: 60vw 20vw;
     background-repeat: no-repeat;
-   
 }
 .img4{
     border-radius: 40px;
@@ -169,7 +160,6 @@ p{
     background-image: url(../imagem/img_4.png);
     background-size: 60vw 20vw;
     background-repeat: no-repeat;
-   
 }
 .img5{
     border-radius: 40px;
@@ -184,7 +174,6 @@ p{
     background-image: url(../imagem/img_5.jpg);
     background-size: 60vw 20vw;
     background-repeat: no-repeat;
-   
 }
 .img6{
     border-radius: 40px;
@@ -199,7 +188,6 @@ p{
     background-image: url(../imagem/img_6.jpg);
     background-size: 60vw 20vw;
     background-repeat: no-repeat;
-   
 }
 .img7{
     border-radius: 40px;
@@ -214,7 +202,6 @@ p{
     background-image: url(../imagem/img_7.png);
     background-size: 60vw 20vw;
     background-repeat: no-repeat;
-   
 }
 @media (max-width: 1160px) {
     .pages{
@@ -225,7 +212,6 @@ p{
       display: inline-block;  
       margin-top:50px;
       text-align: center;
-     
 }
     .section1{
         height: 100px;
@@ -239,16 +225,12 @@ p{
         left: 50%;
         transform: translateX(-50%);
         font-size: min(20pt,5vw);
-        background-color: blueviolet;
     }
     .link{
         left:60%;
         transform:translatex(-60%)
     }
-    .git{
-
-    }
- }
+}
 @media(max-height: 640px){
   .section1{
        height: 70px;
@@ -258,7 +240,6 @@ p{
   }
   footer{
       height: 7%;
-      background-color: brown;
   }
   .link{
     left: 58%;
@@ -321,7 +302,6 @@ p{
   
     a{
         padding: 30px;
-        color: chartreuse;
     }
     .link{
      padding:0;

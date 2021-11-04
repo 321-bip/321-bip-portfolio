@@ -9,3 +9,12 @@
      font-size: min(25pt,6vw,6vh);
      color:white;
  }
+ .velha{
+    display: inline-block;
+    position: fixed;
+    left: 1%;
+    top:26%;
+    text-align: center;
+    font-size: min(25pt,6vw,6vh);
+    color:white;
+ }
